@@ -3,202 +3,230 @@
 </p>
 
 <p align="center">
-  <a href="mailto:e1756704332@live.uleam.edu.ec"><img src="https://img.shields.io/badge/contacto-email-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/CLOG-U"><img src="https://img.shields.io/badge/github-CLOG--U-0f172a?style=flat-square&logo=github" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=CLOG-U&label=lecturas+del+log&color=7c3aed&style=flat-square" alt="Profile views" />
+  <a href="mailto:e1756704332@live.uleam.edu.ec"><img src="https://img.shields.io/badge/CONTACTO-EMAIL-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/CLOG-U"><img src="https://img.shields.io/badge/GITHUB-CLOG--U-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CLOG-U&label=LECTURAS+DEL+LOG&color=7c3aed&style=for-the-badge" alt="Profile views" />
 </p>
-
-# `01 // Punto de partida`
-
-Soy **Carlos Ortiz**, estudiante de Ingeniería de Software en la **Universidad Laica Eloy Alfaro de Manabí**. Este perfil no pretende ser una lista de tecnologías: es una bitácora de lo que aprendo, lo que construyo y lo que logro explicar después de construirlo.
-
-Actualmente curso el **quinto semestre** y concentro mi crecimiento en tres líneas:
-
-```text
-software que resuelve problemas
-           ↓
-datos que ayudan a decidir
-           ↓
-IA aplicada con responsabilidad
-```
-
-Vivo en **Manta, Ecuador**, y me interesa participar en proyectos donde pueda combinar desarrollo, análisis, comunicación técnica y trabajo en equipo.
-
----
-
-# `02 // Cómo trabajo`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 1. Entender
-
-Antes de programar, intento traducir el problema a reglas, actores, datos y decisiones. Me interesa saber **qué debe resolver el sistema y por qué importa**.
-
-</td>
-<td width="33%" valign="top">
-
-### 2. Construir
-
-Paso de la idea a prototipos funcionales usando frontend, backend, bases de datos, pruebas y despliegue. Prefiero soluciones demostrables sobre conceptos aislados.
-
-</td>
-<td width="33%" valign="top">
-
-### 3. Explicar
-
-Un proyecto no termina cuando ejecuta. También debe poder presentarse, justificarse y ser entendido por profesores, compañeros, usuarios o jurados.
-
-</td>
-</tr>
-</table>
-
-> Mi objetivo es convertirme en un ingeniero capaz de conectar la parte técnica con el problema real, no solamente escribir código.
-
----
-
-# `03 // Mapa de construcción`
-
-<table>
-<tr>
-<td><strong>Base</strong></td>
-<td>Python · Java · JavaScript · TypeScript · SQL · HTML · CSS</td>
-</tr>
-<tr>
-<td><strong>Aplicaciones</strong></td>
-<td>React · Next.js · Vite · FastAPI · Node.js</td>
-</tr>
-<tr>
-<td><strong>Datos</strong></td>
-<td>PostgreSQL · MySQL · Supabase · pandas · NumPy · scikit-learn · Orange</td>
-</tr>
-<tr>
-<td><strong>Infraestructura</strong></td>
-<td>Docker · GitHub · Render · Vercel · Netlify</td>
-</tr>
-<tr>
-<td><strong>Calidad</strong></td>
-<td>Git · GitHub Actions · SonarQube · pruebas y documentación técnica</td>
-</tr>
-<tr>
-<td><strong>IA asistida</strong></td>
-<td>Codex · Claude · Gemini · Cursor · Groq</td>
-</tr>
-</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,fastapi,nodejs,postgres,mysql,supabase,docker,git,github,vercel&perline=8" alt="Tecnologías principales" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=900&lines=Entender+el+problema+%E2%86%92+construir+la+soluci%C3%B3n;Software+%2B+Datos+%2B+IA+aplicada;Aprender%2C+crear%2C+explicar+y+mejorar" alt="Presentación animada" />
 </p>
 
-La IA forma parte de mi flujo como herramienta de investigación, prototipado, revisión y aprendizaje. Procuro usarla como apoyo para pensar mejor, no como sustituto del criterio técnico.
+<p align="center">
+  <img src="./assets/focus-board.svg" width="100%" alt="Áreas de enfoque actuales" />
+</p>
 
----
+# `01 // INICIO DE SESIÓN`
 
-# `04 // Expedientes de proyecto`
-
-## `CASE_001` — FraudIA Claims
-
-**Contexto:** reto de Aseguradora del Sur dentro de la HackIAthon, desarrollado junto al equipo **Manta Bytes**.
-
-**Problema:** revisar reclamos de seguros con información dispersa, documentos, narrativas y posibles patrones anómalos puede ser lento y difícil de justificar.
-
-**Respuesta construida:** una plataforma que prioriza siniestros mediante reglas explicables, detección de anomalías, análisis narrativo y NLP. El sistema genera señales para revisión humana; no acusa fraude ni toma decisiones automáticas sobre pagos.
-
-**Lo que representa en mi proceso:** fue una experiencia de integración completa: frontend, API, datos, lógica de riesgo, documentación, despliegue y presentación ante jurados.
-
-```text
-entrada de datos → score trazable → alertas → expediente → decisión humana
+```yaml
+usuario: Carlos Luis Ortiz García
+ubicación: Manta, Ecuador
+formación: Ingeniería de Software · ULEAM · quinto semestre
+misión: convertir problemas reales en sistemas claros, útiles y demostrables
+estado: aprendiendo y construyendo
 ```
 
-**Tecnologías:** React · TypeScript · Vite · FastAPI · Python · PostgreSQL · Supabase · Machine Learning · NLP
+Soy **Carlos Ortiz**. Este perfil funciona como mi bitácora de ingeniería: registra proyectos, decisiones, aprendizajes y las áreas que voy fortaleciendo mientras avanzo en mi formación.
 
-<p>
-  <a href="https://github.com/CLOG-U/retoaseguradora"><img src="https://img.shields.io/badge/abrir_repositorio-FraudIA_Claims-7c3aed?style=for-the-badge&logo=github" alt="Repositorio FraudIA Claims" /></a>
-  <a href="https://fraudia-frontend.onrender.com"><img src="https://img.shields.io/badge/probar_demo-Render-2563eb?style=for-the-badge&logo=render&logoColor=white" alt="Demo FraudIA Claims" /></a>
-</p>
+<table>
+<tr>
+<td align="center"><strong>🧠 ENTENDER</strong><br/><sub>Problema, usuarios, datos y reglas.</sub></td>
+<td align="center"><strong>⚙️ CONSTRUIR</strong><br/><sub>Prototipos funcionales de extremo a extremo.</sub></td>
+<td align="center"><strong>🎙️ EXPLICAR</strong><br/><sub>Comunicar cómo funciona y por qué importa.</sub></td>
+</tr>
+</table>
+
+> **No quiero limitarme a escribir código: quiero aprender a conectar tecnología, decisiones y necesidades reales.**
 
 ---
 
-## `CASE_002` — CareGuide AI
+# `02 // STACK EN MOVIMIENTO`
 
-**Contexto:** proyecto de HealthTech desarrollado para un reto de HackIAthon junto al Club de Inteligencia Artificial de la ULEAM.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,vite,fastapi,nodejs,postgres,mysql,supabase,docker,git,github,vscode,vercel,netlify&perline=10" alt="Tecnologías principales" />
+</p>
 
-**Problema:** antes de atenderse, un paciente puede no saber qué especialidad necesita, cuánto podría pagar o qué hospital de su red le conviene.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Respuesta construida:** un agente que recibe síntomas, propone una especialidad, consulta la cobertura disponible y estima el copago y la alternativa hospitalaria más conveniente.
+### 🟦 Construcción de software
 
-**Lo que representa en mi proceso:** aprendí a conectar una interfaz conversacional con reglas de negocio, datos de cobertura, backend y una respuesta comprensible para el usuario.
+`Python` `Java` `JavaScript` `TypeScript`  
+`React` `Next.js` `Vite` `FastAPI` `Node.js`
+
+Me interesa integrar interfaces, lógica de negocio, APIs, datos y despliegue en una solución completa.
+
+</td>
+<td width="50%" valign="top">
+
+### 🟪 Datos e inteligencia artificial
+
+`PostgreSQL` `MySQL` `Supabase`  
+`pandas` `NumPy` `scikit-learn` `Orange` `NLP`
+
+Trabajo en análisis, modelado y soluciones de IA que apoyen decisiones explicables.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟧 Entrega y calidad
+
+`Docker` `Render` `Vercel` `Netlify`  
+`Git` `GitHub Actions` `SonarQube`
+
+Busco que los proyectos no solo funcionen localmente, sino que puedan probarse, revisarse y mantenerse.
+
+</td>
+<td width="50%" valign="top">
+
+### 🟩 Herramientas de IA
+
+`Codex` `Claude` `Gemini` `Cursor` `Groq`
+
+Las uso para investigar, prototipar, revisar y aprender más rápido, conservando el criterio sobre las decisiones técnicas.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `03 // PROYECTOS EN PRIMER PLANO`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛡️ FraudIA Claims
+
+<img src="https://img.shields.io/badge/CASE-001-7c3aed?style=flat-square" alt="Case 001" />
+<img src="https://img.shields.io/badge/ÁREA-InsurTech-2563eb?style=flat-square" alt="InsurTech" />
+<img src="https://img.shields.io/badge/ESTADO-Demo_funcional-16a34a?style=flat-square" alt="Demo funcional" />
+
+Plataforma construida para priorizar siniestros que requieren revisión mediante reglas explicables, anomalías, análisis narrativo y NLP.
 
 ```text
-síntomas → orientación → cobertura → copago → hospital recomendado
+datos
+  ↓
+score trazable
+  ↓
+alertas y evidencia
+  ↓
+revisión humana
 ```
 
-**Tecnologías:** Next.js · React · FastAPI · Python · Supabase · PostgreSQL · Groq · Agno
+**Mi aprendizaje principal:** integrar frontend, API, datos, lógica de riesgo, despliegue, documentación y presentación en un mismo proyecto.
+
+**Stack:** React · TypeScript · Vite · FastAPI · Python · PostgreSQL · Supabase · ML · NLP
 
 <p>
-  <a href="https://github.com/Erickelrojo-22/HackIAthon-Manta-Bytes---CLUB-IA-ULEAM-main"><img src="https://img.shields.io/badge/abrir_repositorio-CareGuide_AI-0ea5e9?style=for-the-badge&logo=github" alt="Repositorio CareGuide AI" /></a>
+  <a href="https://github.com/CLOG-U/retoaseguradora"><img src="https://img.shields.io/badge/ABRIR-CÓDIGO-7c3aed?style=for-the-badge&logo=github" alt="Repositorio FraudIA" /></a>
+  <a href="https://fraudia-frontend.onrender.com"><img src="https://img.shields.io/badge/PROBAR-DEMO-2563eb?style=for-the-badge&logo=render&logoColor=white" alt="Demo FraudIA" /></a>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+## 🩺 CareGuide AI
+
+<img src="https://img.shields.io/badge/CASE-002-0891b2?style=flat-square" alt="Case 002" />
+<img src="https://img.shields.io/badge/ÁREA-HealthTech-0ea5e9?style=flat-square" alt="HealthTech" />
+<img src="https://img.shields.io/badge/ESTADO-HackIAthon-f97316?style=flat-square" alt="HackIAthon" />
+
+Agente que recibe síntomas, orienta hacia una especialidad, consulta la cobertura y estima copago y hospital recomendado.
+
+```text
+síntomas
+  ↓
+orientación
+  ↓
+cobertura y copago
+  ↓
+hospital sugerido
+```
+
+**Mi aprendizaje principal:** conectar una interfaz conversacional con reglas, backend, datos de seguros y una respuesta comprensible para el paciente.
+
+**Stack:** Next.js · React · FastAPI · Python · Supabase · PostgreSQL · Groq · Agno
+
+<p>
+  <a href="https://github.com/Erickelrojo-22/HackIAthon-Manta-Bytes---CLUB-IA-ULEAM-main"><img src="https://img.shields.io/badge/ABRIR-CÓDIGO-0891b2?style=for-the-badge&logo=github" alt="Repositorio CareGuide" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `05 // Principios que quiero mantener`
+# `04 // REGLAS DEL SISTEMA`
 
 ```python
-mi_forma_de_trabajar = {
+carlos = {
     "aprender": "entender antes de repetir",
-    "construir": "probar ideas con software funcional",
-    "colaborar": "comunicar y escuchar al equipo",
-    "usar_ia": "acelerar sin perder criterio",
-    "mejorar": "documentar errores y convertirlos en experiencia",
+    "construir": "crear algo que pueda demostrarse",
+    "colaborar": "escuchar, comunicar y dar crédito",
+    "usar_ia": "acelerar sin entregar el criterio",
+    "mejorar": "convertir cada error en documentación",
 }
 ```
 
-- No presentar una tecnología como dominio absoluto si todavía estoy aprendiéndola.
-- Dar crédito al equipo y distinguir claramente mi participación.
-- Priorizar proyectos que puedan demostrarse y explicarse.
-- Mejorar tanto el código como la forma de comunicar su valor.
+<p align="center">
+  <img src="https://img.shields.io/badge/01-CURIOSIDAD-22d3ee?style=for-the-badge" alt="Curiosidad" />
+  <img src="https://img.shields.io/badge/02-CRITERIO-818cf8?style=for-the-badge" alt="Criterio" />
+  <img src="https://img.shields.io/badge/03-COLABORACIÓN-c084fc?style=for-the-badge" alt="Colaboración" />
+  <img src="https://img.shields.io/badge/04-EJECUCIÓN-f472b6?style=for-the-badge" alt="Ejecución" />
+</p>
 
 ---
 
-# `06 // Señales de progreso`
+# `05 // TELEMETRÍA`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CLOG-U&show_icons=true&theme=transparent&hide_border=true&title_color=818cf8&icon_color=38bdf8&text_color=94a3b8&locale=es" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLOG-U&layout=compact&theme=transparent&hide_border=true&title_color=818cf8&text_color=94a3b8&langs_count=8" alt="Lenguajes más usados" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CLOG-U&show_icons=true&theme=radical&hide_border=true&border_radius=16&locale=es&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLOG-U&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CLOG-U&bg_color=00000000&color=818cf8&line=38bdf8&point=c084fc&area=true&hide_border=true" alt="Actividad de GitHub" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=CLOG-U&theme=radical&hide_border=true&border_radius=16&locale=es" alt="Racha de GitHub" />
 </p>
 
-Las estadísticas muestran actividad; los expedientes anteriores muestran mejor qué estoy aprendiendo a hacer con ella.
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CLOG-U&bg_color=141321&color=f8fafc&line=22d3ee&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=16" alt="Actividad de GitHub" />
+</p>
 
 ---
 
-# `07 // Próxima versión`
+# `06 // SIGUIENTE ACTUALIZACIÓN`
 
-Actualmente estoy fortaleciendo:
+<table>
+<tr>
+<td align="center">🏗️<br/><strong>Arquitectura</strong><br/><sub>Diseñar sistemas más claros.</sub></td>
+<td align="center">🐍<br/><strong>Backend</strong><br/><sub>Profundizar en Python y FastAPI.</sub></td>
+<td align="center">📊<br/><strong>Datos</strong><br/><sub>Modelar y analizar mejor.</sub></td>
+<td align="center">🧪<br/><strong>Calidad</strong><br/><sub>Probar, medir y documentar.</sub></td>
+<td align="center">☁️<br/><strong>Cloud</strong><br/><sub>Desplegar con más solidez.</sub></td>
+</tr>
+</table>
 
-- arquitectura y diseño de software;
-- desarrollo backend con Python y FastAPI;
-- modelado y análisis de datos;
-- pruebas, calidad y despliegue;
-- comunicación técnica para proyectos académicos y competencias.
-
-Me interesa colaborar en proyectos universitarios, hackathones, soluciones con IA aplicada y oportunidades donde pueda seguir creciendo como desarrollador.
+Me interesa colaborar en proyectos universitarios, hackathones, soluciones con IA aplicada y oportunidades en las que pueda seguir creciendo como desarrollador.
 
 <details>
-<summary><strong>English snapshot</strong></summary>
+<summary><strong>🌎 English snapshot</strong></summary>
 <br />
 
-I'm Carlos Ortiz, a Software Engineering student at ULEAM in Manta, Ecuador. I build university and hackathon projects around software, applied AI and data. My goal is to understand real problems, create functional solutions and communicate clearly how they work and why they matter.
+I'm Carlos Ortiz, a Software Engineering student at ULEAM in Manta, Ecuador. I build university and hackathon projects around software, applied AI and data. My goal is to understand real problems, create functional solutions and explain clearly how they work and why they matter.
 
 </details>
 
 ---
 
 <p align="center">
-  <strong>CLOG-U</strong><br />
-  <sub>Carlos Luis Ortiz García · Engineering log in continuous development</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,45:7c3aed,100:f472b6&height=3&section=footer" width="100%" alt="Separador" />
+  <br />
+  <strong>CARLOS LUIS ORTIZ GARCÍA</strong><br />
+  <sub>CLOG-U · Engineering log · versión en desarrollo continuo</sub>
 </p>
