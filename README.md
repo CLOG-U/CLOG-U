@@ -163,14 +163,6 @@ FraudIA Claims no acusa automáticamente ni rechaza reclamos: genera alertas, ev
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CLOG-U&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CLOG-U/CLOG-U/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CLOG-U/CLOG-U/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/CLOG-U/CLOG-U/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 ## 🎯 Actualmente / Currently
