@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/carlos-engineering-log.svg" width="100%" alt="Carlos Ortiz engineering log" />
+  <img src="./assets/profile-banner-fixed.svg" width="100%" alt="Carlos Ortiz engineering log" />
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ carlos = {
 # `05 // TELEMETRÍA`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CLOG-U&show_icons=true&theme=radical&hide_border=true&border_radius=16&locale=es&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img width="49%" src="./assets/status-panel.svg" alt="Estado actual del perfil" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLOG-U&layout=compact&theme=radical&hide_border=true&border_radius=16&langs_count=8" alt="Lenguajes más usados" />
 </p>
 
