@@ -12,7 +12,7 @@
 <circle cx="1030" cy="105" r="9" fill="#f9a8d4"/>
 <rect x="58" y="42" width="218" height="38" rx="19" fill="#020617" fill-opacity="0.72" stroke="#22d3ee" stroke-opacity="0.75"/>
 <circle cx="79" cy="61" r="6" fill="#34d399"/>
-<text x="96" y="67" fill="#a5f3fc" font-size="15" font-family="Segoe UI, Arial" font-weight="800">CLOG-U // PROFILE ACTIVE</text>
+<text x="96" y="67" fill="#a5f3fc" font-size="14.2" font-family="Segoe UI, Arial" font-weight="800">CLOG-U // DEV PROFILE</text>
 <text x="58" y="164" fill="#ffffff" font-size="66" font-family="Segoe UI, Arial" font-weight="900">Carlos Ortiz</text>
 <rect x="58" y="188" width="610" height="7" rx="3.5" fill="url(#a)"/>
 <text x="58" y="242" fill="#e0e7ff" font-size="26" font-family="Segoe UI, Arial" font-weight="600">Building software that connects ideas, data and people.</text>
