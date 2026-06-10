@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos Ortiz engineering log banner</title>
+  <desc id="desc">Original profile banner for Carlos Ortiz, software engineering student focused on applied AI and data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.5" stop-color="#111b3f"/>
+      <stop offset="1" stop-color="#3b1f73"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#93c5fd" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+
+  <circle cx="1025" cy="82" r="150" fill="none" stroke="#818cf8" stroke-opacity="0.18" stroke-width="1.5"/>
+  <circle cx="1025" cy="82" r="105" fill="none" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1.5"/>
+  <circle cx="1025" cy="82" r="60" fill="none" stroke="#c084fc" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="1025" cy="82" r="8" fill="#c084fc" filter="url(#glow)"/>
+
+  <path d="M760 318 C855 235 925 282 1000 215 C1060 163 1100 192 1160 128" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <circle cx="760" cy="318" r="5" fill="#38bdf8"/>
+  <circle cx="1000" cy="215" r="5" fill="#818cf8"/>
+  <circle cx="1160" cy="128" r="5" fill="#c084fc"/>
+
+  <rect x="62" y="48" width="186" height="34" rx="17" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.55"/>
+  <text x="82" y="71" fill="#7dd3fc" font-size="15" font-family="Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="1.4">CLOG-U // PROFILE.LOG</text>
+
+  <text x="62" y="151" fill="#f8fafc" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Carlos Ortiz</text>
+  <rect x="62" y="174" width="560" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="62" y="221" fill="#cbd5e1" font-size="24" font-family="Segoe UI, Arial, sans-serif">Software Engineering student building useful systems</text>
+  <text x="62" y="258" fill="#94a3b8" font-size="19" font-family="Segoe UI, Arial, sans-serif">applied AI • data • backend • university projects</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <rect x="62" y="294" width="122" height="34" rx="8" fill="#082f49" stroke="#38bdf8" stroke-opacity="0.55"/>
+    <text x="88" y="316" fill="#bae6fd">MANTA, EC</text>
+    <rect x="198" y="294" width="154" height="34" rx="8" fill="#1e1b4b" stroke="#818cf8" stroke-opacity="0.55"/>
+    <text x="221" y="316" fill="#c7d2fe">ULEAM • 5TH</text>
+    <rect x="366" y="294" width="184" height="34" rx="8" fill="#3b0764" stroke="#c084fc" stroke-opacity="0.55"/>
+    <text x="391" y="316" fill="#e9d5ff">LEARN → BUILD → EXPLAIN</text>
+  </g>
+
+  <g font-family="Consolas, monospace" font-size="16">
+    <text x="830" y="252" fill="#7dd3fc">const focus = [</text>
+    <text x="858" y="279" fill="#c4b5fd">"software", "ai",</text>
+    <text x="858" y="306" fill="#c4b5fd">"data", "impact"</text>
+    <text x="830" y="333" fill="#7dd3fc">];</text>
+  </g>
+</svg>
