@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="0.55" stop-color="#312e81"/><stop offset="1" stop-color="#701a75"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<pattern id="p" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.07"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="30" fill="url(#g)"/>
+<rect width="1200" height="420" rx="30" fill="url(#p)"/>
+<circle cx="1030" cy="105" r="115" fill="none" stroke="#f0abfc" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="1030" cy="105" r="76" fill="none" stroke="#67e8f9" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="10 9"/>
+<circle cx="1030" cy="105" r="42" fill="#a855f7" fill-opacity="0.18" stroke="#f9a8d4" stroke-width="2"/>
+<circle cx="1030" cy="105" r="9" fill="#f9a8d4"/>
+<rect x="58" y="42" width="218" height="38" rx="19" fill="#020617" fill-opacity="0.72" stroke="#22d3ee" stroke-opacity="0.75"/>
+<circle cx="79" cy="61" r="6" fill="#34d399"/>
+<text x="96" y="67" fill="#a5f3fc" font-size="15" font-family="Segoe UI, Arial" font-weight="800">CLOG-U // PROFILE ACTIVE</text>
+<text x="58" y="164" fill="#ffffff" font-size="66" font-family="Segoe UI, Arial" font-weight="900">Carlos Ortiz</text>
+<rect x="58" y="188" width="610" height="7" rx="3.5" fill="url(#a)"/>
+<text x="58" y="242" fill="#e0e7ff" font-size="26" font-family="Segoe UI, Arial" font-weight="600">Building software that connects ideas, data and people.</text>
+<text x="58" y="282" fill="#cbd5e1" font-size="20" font-family="Segoe UI, Arial">Software Engineering • Applied AI • Data • Backend</text>
+<rect x="58" y="326" width="140" height="42" rx="12" fill="#083344" stroke="#22d3ee"/>
+<text x="90" y="352" fill="#cffafe" font-size="14" font-family="Segoe UI, Arial" font-weight="800">MANTA, EC</text>
+<rect x="214" y="326" width="174" height="42" rx="12" fill="#312e81" stroke="#818cf8"/>
+<text x="245" y="352" fill="#e0e7ff" font-size="14" font-family="Segoe UI, Arial" font-weight="800">ULEAM • 5TH</text>
+<rect x="404" y="326" width="286" height="42" rx="12" fill="#581c87" stroke="#e879f9"/>
+<text x="432" y="352" fill="#fae8ff" font-size="13" font-family="Segoe UI, Arial" font-weight="800">LEARN • BUILD • EXPLAIN</text>
+<rect x="786" y="242" width="344" height="136" rx="18" fill="#020617" fill-opacity="0.7" stroke="#a78bfa"/>
+<circle cx="810" cy="265" r="5" fill="#fb7185"/><circle cx="828" cy="265" r="5" fill="#facc15"/><circle cx="846" cy="265" r="5" fill="#4ade80"/>
+<text x="810" y="300" fill="#67e8f9" font-size="15" font-family="Consolas, monospace">FOCUS</text>
+<text x="810" y="328" fill="#ddd6fe" font-size="17" font-family="Segoe UI, Arial" font-weight="700">Useful systems</text>
+<text x="810" y="354" fill="#fbcfe8" font-size="17" font-family="Segoe UI, Arial" font-weight="700">Continuous improvement</text>
+</svg>
